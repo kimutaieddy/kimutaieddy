@@ -52,7 +52,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kimutaieddy&label=Profile%20views&color=0e75b6&style=flat" alt="kimutaieddy" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=kimutaieddy" alt="kimutaieddy" /></a> </p>
 <p align="center" > </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
