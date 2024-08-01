@@ -27,31 +27,6 @@
 </div>
 
 ###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kimutaieddy&theme=onedark" alt="GitHub Streak" />
-</div>
-
-###
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=kimutaieddy&theme=dracula&show_icons=true" height="220" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimutaieddy&show_icons=true&locale=en&layout=compact&theme=dracula"  alt="languages graph"  />
-</div>
-
-###
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kimutaieddy&label=Profile%20views&color=0e75b6&style=flat" alt="kimutaieddy" /> </p>
-
 <p align="center" > </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
